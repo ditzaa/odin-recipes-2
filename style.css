@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    background-color: rgb(139, 48, 48);
+    color: yellow;
+}
+
+ul {
+    list-style-position:inside;  
+}
+
+a{
+    color: yellow;
+}
+
+h1{
+    color: yellow;
+}
